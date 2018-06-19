@@ -1,4 +1,4 @@
-#compdef manage.py
+#compdef manage.py manage managepy
 
 typeset -ga nul_args
 nul_args=(
